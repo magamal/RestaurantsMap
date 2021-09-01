@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Restaurants Map App</string>
+    <string name="network_error">Network Error</string>
+    <string name="retry">Retry</string>
+    <string name="credential_error">Credential error, please check your credentials!!</string>
+    <string name="something_wrong">Something went wrong!!</string>
+    <string name="unknown_error">Unknown error!!</string>
+    <string name="location_error">Couln\'t get location</string>
+    <string name="location_format">%1$s (%2$s) ,%3$s"</string>
+    <string name="error_open_location">You have to open the Location to be able to Check In</string>
+    <string name="error_open_network">You have to open the Internet to be able to Check In</string>
+    <string name="permission_denied">Permission is denied</string>
+    <string name="permission_denied_msg">We Couln\'t request the needed permissions</string>
+    <string name="open">Open</string>
+</resources>

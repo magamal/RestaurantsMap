@@ -1,0 +1,2 @@
+rootProject.name = "RestaurantsMap"
+include ':Domain', ':Remote', ':Data', ':Presentation', ':MobileUi', ':Common'
